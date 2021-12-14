@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         // tags ="@sanity" // scenarios taged with sanity
         //tags ="@sanity and @regression" // scenarios tagged with sanity and regression
         //tags ="@sanity or @regression" // all scenarios tagged with sanity and regression
-      //  tags = "@sanity and not @regression"//Sanity but not regression
+        //tags = "@sanity and not @regression"//Sanity but not regression
 
         plugin= {"pretty",
             "html:reports/myreport.html",
